@@ -1,4 +1,4 @@
-# Advanced Software Architecture Guide (Practice & Mastery)
+# Practicing Software Architecture
 
 This repo is my personal playground for learning and practicing advanced software architecture. Here, I'll build small projects and experiments to get hands-on experience with distributed systems, secure and scalable design, and combining mobile, web, backend, and AI agents.
 
