@@ -14,3 +14,10 @@ A minimal offline notes app where you can write, edit, and delete notes. No user
 - React (Web)
 
 > This is a warm-up project to get hands-on with UI basics and local persistence before tackling more complex architectures.
+
+## Extra
+
+1. *Lightweight Data Structures*:
+    - Implement your own **undo/redo history stack** in QuickNotes.
+    - Create a **dynamic array** that manually resizes (copy/double size algorithms) and measures times against a native array.
+2. *Basic Testing*: TDD of a "word count" function used in QuickNotes.
